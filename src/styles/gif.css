@@ -1,0 +1,13 @@
+img{
+    width: 100px;
+    height: 50%;
+    margin: 10px
+}
+.list-images{
+    display: flex;
+    flex-wrap: wrap;
+    padding-left: 0;
+}
+.list-images .item{
+    height: 150px;
+}
